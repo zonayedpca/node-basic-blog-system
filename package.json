@@ -1,0 +1,16 @@
+{
+  "name": "node-blog-system",
+  "version": "1.0.0",
+  "description": "A Simple Blogging Platform build on top of Node JS and so other things",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zonayedpca",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
